@@ -17,7 +17,7 @@
   },
   "scripts": {
     "production": "webpack -p",
-    "start": "webpack"
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
